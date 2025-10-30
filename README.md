@@ -93,7 +93,7 @@ Fui ainda contemplado com a medalha de excelência e destaque da ocupação, rec
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px; margin-bottom: 10px" 
-    src="https://github-readme-stats.vercel.app/api?username=igormartinz&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=igormartinz&show_icons=true&theme=dark&locale=pt-br" 
   />
 
 <img 
