@@ -14,7 +14,7 @@ Fui ainda contemplado com a medalha de excelência e destaque da ocupação, rec
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-top: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -22,7 +22,7 @@ Fui ainda contemplado com a medalha de excelência e destaque da ocupação, rec
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-top: 10px; " 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -30,7 +30,7 @@ Fui ainda contemplado com a medalha de excelência e destaque da ocupação, rec
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-top: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -38,7 +38,7 @@ Fui ainda contemplado com a medalha de excelência e destaque da ocupação, rec
     alt="PHP" 
     title="PHP"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-top: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
@@ -46,7 +46,7 @@ Fui ainda contemplado com a medalha de excelência e destaque da ocupação, rec
     alt="MySQL" 
     title="MySQL"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-top: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
@@ -54,7 +54,7 @@ Fui ainda contemplado com a medalha de excelência e destaque da ocupação, rec
     alt="Composer" 
     title="Composer"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-top: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" 
 />
 <img 
@@ -62,7 +62,7 @@ Fui ainda contemplado com a medalha de excelência e destaque da ocupação, rec
     alt="Figma" 
     title="Figma"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-top: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 <img 
@@ -70,7 +70,7 @@ Fui ainda contemplado com a medalha de excelência e destaque da ocupação, rec
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-top: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
@@ -78,7 +78,7 @@ Fui ainda contemplado com a medalha de excelência e destaque da ocupação, rec
     alt="Java" 
     title="Java"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-top: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
@@ -86,7 +86,7 @@ Fui ainda contemplado com a medalha de excelência e destaque da ocupação, rec
     alt="Swagger" 
     title="Swagger"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-top: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
 />
 <img 
@@ -94,7 +94,7 @@ Fui ainda contemplado com a medalha de excelência e destaque da ocupação, rec
     alt="Laravel" 
     title="Laravel"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-top: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 <img 
@@ -102,7 +102,7 @@ Fui ainda contemplado com a medalha de excelência e destaque da ocupação, rec
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-top: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
