@@ -1,130 +1,62 @@
-# 🧑🏽‍💻 Igor Martins
+# 👋 Olá, eu sou o Igor Martins
 
-**`Desenvolvedor FullStack`**
+🎓 Graduando em Engenharia de Software pela Estácio  
+💻 Técnico em Informática pelo Senac  
+🚀 Focado em Desenvolvimento Web
 
-Me chamo Igor Martins e tenho 20 anos. Concluí o curso Técnico em Informática pelo Senac, onde adquiri experiência prática em programação. Durante minha formação, participei das Competições Senac, na ocupação Aplicações Web e Mobile, conquistando o 1º lugar na etapa estadual e o 4º lugar na etapa nacional, representando Minas Gerais.
-Fui ainda contemplado com a medalha de excelência e destaque da ocupação, reconhecendo meu espírito de equipe, colaboração e desempenho técnico.
+Sou apaixonado por tecnologia e estou em constante aprendizado, buscando evoluir tecnicamente e contribuir com soluções eficientes e bem estruturadas.
 
 ---
 
-### 💻 Linguagens e Tecnologias
+## 🛠️ Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px; margin-top: 5px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px; margin-top: 10px; " 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px; margin-top: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px; margin-top: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px; margin-top: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Composer" 
-    title="Composer"
-    width="30px" 
-    style="padding-right: 10px; margin-top: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px; margin-top: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px; margin-top: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px; margin-top: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Swagger" 
-    title="Swagger"
-    width="30px" 
-    style="padding-right: 10px; margin-top: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px; margin-top: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px; margin-top: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+### Front-end
 
-<br/>
-<br/>
+<div style="display: flex">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-2962E8?style=for-the-badge&logo=CSS&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7533F8?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
 
-### 📊 Estatísticas
+### Back-end
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px; margin-bottom: 10px" 
-    src="https://github-readme-stats.vercel.app/api?username=igormartinz&show_icons=true&theme=dark&locale=pt-br" 
-  />
+<div style="display: flex">
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-E41F24?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="composer" src="https://img.shields.io/badge/composer-774924?style=for-the-badge&logo=composer&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormartinz&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### Ferramentas
 
+<div style="display: flex">
+  <img align="center" alt="versel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/Git-E84D31?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" alt="figma" src="https://img.shields.io/badge/figma-DB7093?style=for-the-badge&logo=figma&logoColor=white" />
+  <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+</div>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://github.com/igormartinz">
+    <img src="https://img.shields.io/badge/GitHub-IGORMARTINZ-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/ig_martinz31/">
+    <img src="https://img.shields.io/badge/Instagram-@IG_MARTINZ31-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/igor-martins-9175b7263/">
+    <img src="https://img.shields.io/badge/LinkedIn-@IGORMARTINS-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:igormartinssantos9020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-igormartinssantos9020@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+---
+
+⭐ Sempre em busca de aprendizado, evolução constante e novos desafios na área de tecnologia.
