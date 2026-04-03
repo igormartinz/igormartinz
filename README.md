@@ -39,10 +39,6 @@ Sou apaixonado por tecnologia e estou em constante aprendizado, buscando evoluir
 </div>
 
 ---
-## Estatisticas
-
-![GitHub Stats](https://github-readme-stats-ba2fciehq-igormartinzs-projects.vercel.app/api?username=igormartinz&v=1)
-
 
 ## 📫 Contato
 
