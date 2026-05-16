@@ -6,55 +6,59 @@
 
 Sou apaixonado por tecnologia e estou em constante aprendizado, buscando evoluir tecnicamente e contribuir com soluções eficientes e bem estruturadas.
 
+<a href="mailto:igormartinssantos9020@gmail.com" title="Gmail" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+<a href="https://www.linkedin.com/in/igor-martins-9175b7263/" title="LinkedIn" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<a href="https://wa.me/+5531986048589" title="WhatsApp" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+
+<a href="https://www.instagram.com/ig_martinz31/" title="Instagram" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
 ---
 
 ## 🛠️ Tecnologias
-
-### Front-end
-
-<div style="display: flex">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-2962E8?style=for-the-badge&logo=CSS&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7533F8?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="50" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="12" />
 </div>
 
-### Back-end
-
-<div style="display: flex">
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-E41F24?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="composer" src="https://img.shields.io/badge/composer-774924?style=for-the-badge&logo=composer&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
-### Ferramentas
-
-<div style="display: flex">
-  <img align="center" alt="versel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img align="center" alt="git" src="https://img.shields.io/badge/Git-E84D31?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img align="center" alt="figma" src="https://img.shields.io/badge/figma-DB7093?style=for-the-badge&logo=figma&logoColor=white" />
-  <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-</div>
-
----
-
-## 📫 Contato
+# Estatisticas
 
 <p align="center">
-  <a href="https://github.com/igormartinz">
-    <img src="https://img.shields.io/badge/GitHub-IGORMARTINZ-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.instagram.com/ig_martinz31/">
-    <img src="https://img.shields.io/badge/Instagram-@IG_MARTINZ31-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/igor-martins-9175b7263/">
-    <img src="https://img.shields.io/badge/LinkedIn-@IGORMARTINS-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:igormartinssantos9020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-igormartinssantos9020@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=igormartinz&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=igormartinz&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=igormartinz&theme=tokyonight"/>
 </p>
 
 ---
