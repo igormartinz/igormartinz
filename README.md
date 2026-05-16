@@ -18,8 +18,6 @@ Sou apaixonado por tecnologia e estou em constante aprendizado, buscando evoluir
 <a href="https://www.instagram.com/ig_martinz31/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
----
-
 ## 💻 Tecnologias
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
